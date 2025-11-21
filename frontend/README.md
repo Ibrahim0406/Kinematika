@@ -299,7 +299,4 @@ npm install
 
 **Ibrahim Bišić**
 
-## 📄 Licenca
-
-Ovaj projekat je kreiran za edukativne svrhe.
 
